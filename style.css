@@ -148,7 +148,7 @@ body {
         font-size : 2.3rem;
         cursor : pointer;
         color : #F59E0B;
-       margin-right : 10vw;
+       margin-right : 35vw;
     }
 }
 
@@ -246,8 +246,8 @@ button:hover {
     }
 
     .pic img {
-        width : 30vw;
-        height : 20vh;
+        width : 27vw;
+        height : 12vh;
     }
 }
 
@@ -394,11 +394,11 @@ footer {
 /* Changes for Mobile */
 @media (max-width: 768px) {
     .heading {
-        font-size : 2.3rem;
+        font-size : 2.1rem;
     }
 
     .color {
-        font-size : 2.4rem;
+        font-size : 2.2rem;
     }
 
     .mode {
