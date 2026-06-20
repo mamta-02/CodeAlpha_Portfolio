@@ -11,6 +11,9 @@ title {
 body.dark-mode {
     color :#ffffff;
     background : black;
+    .pic img {
+        border : 4px solid #ffffff;
+    }
 }
 
 body {
@@ -145,7 +148,7 @@ body {
         font-size : 2.3rem;
         cursor : pointer;
         color : #F59E0B;
-        margin-left : auto;
+       margin-right : 10vw;
     }
 }
 
@@ -244,7 +247,7 @@ button:hover {
 
     .pic img {
         width : 30vw;
-        height : 25vh;
+        height : 20vh;
     }
 }
 
@@ -391,11 +394,11 @@ footer {
 /* Changes for Mobile */
 @media (max-width: 768px) {
     .heading {
-        font-size : 2.4rem;
+        font-size : 2.3rem;
     }
 
     .color {
-        font-size : 2.5rem;
+        font-size : 2.4rem;
     }
 
     .mode {
